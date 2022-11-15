@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adedeji.adewole99@gmail.com**
 
-- ⚡ Fun fact **I think I'm very fun.**
+- ⚡ Fun fact; **I think I'm very fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
