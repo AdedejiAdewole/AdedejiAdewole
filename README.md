@@ -1,7 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Adewole Adedeji</h1>
 <h3 align="center">A passionate data scientist with experience in data science, machine learning and artificial intelligence programming (training neural networks) with python. Python, PyTorch, neural networks, data preparation, and machine learning algorithms like XGBoost and ensemble methods are all things that I am well-versed in. I'm good at fixing problems, and I'm really eager to learn new technology.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adedejiadewole&label=Profile%20views&color=0e75b6&style=flat" alt="adedejiadewole" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dejjjjjji" target="blank"><img src="https://img.shields.io/twitter/follow/dejjjjjji?logo=twitter&style=for-the-badge" alt="dejjjjjji" /></a> </p>
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, anime, movies, shows and politics lol**
 
 - 📫 How to reach me **adedeji.adewole99@gmail.com**
+
+- ⚡ Fun fact **I think I'm very fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
