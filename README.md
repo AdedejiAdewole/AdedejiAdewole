@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning more **artificial intelligence techniques to ensure better neural network accuracies**
 
-- 📄 Certifications **AI programming with python Nano degree [Udacity], Machine Learning Foundations [Udacity]**
+- 📄 Certifications in **AI programming with python Nano degree [Udacity], Machine Learning Foundations [Udacity]**
 
 - 👯 I’m looking to collaborate on **anything that could add to my experience level.**
 
