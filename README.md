@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adewole Adedeji</h1>
-<h3 align="center">A passionate data scientist with experience in data science, machine learning and artificial intelligence programming (training neural networks) with python. Python, PyTorch, neural networks, data preparation, and machine learning algorithms like XGBoost and ensemble methods are all things that I am well-versed in. I'm good at fixing problems, and I'm really eager to learn new technology.</h3>
+<h3 align="center">Machine Learning programmer with some hands-on project-based experience in python, data preprocessing, logistic regression and linear regression, neural networks, and knowledge in other techniques in supervised, unsupervised, and recommenders and reinforcement learning. Highly analytical and conscientious with excellent interpersonal communication skills to collaborate effectively in cross-functional teams and eager to learn under senior programmers and specialists. Successfully worked on two projects using machine learning techniques like Neural Networks and XGBoost algorithm and looking to learn more. Looking to obtain internship positions and junior level entries within a high growth-oriented Machine Learning team to help develop quality technology solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedejiadewole&label=Profile%20views&color=0e75b6&style=flat" alt="adedejiadewole" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently learning more **artificial intelligence techniques to ensure better neural network accuracies**
 
-- 📄 Certifications in **AI programming with python Nano degree [Udacity], Machine Learning Foundations [Udacity]**
+- 📄 Certifications in **AI programming with python Nano degree [Udacity], Machine Learning Foundations [Udacity], Machine Learning specialization [Coursera]**
 
 - 👯 I’m looking to collaborate on **anything that could add to my experience level.**
 
-- 📝 You can also find me on [https://twitter.com/dejjjjjji](https://twitter.com/dejjjjjji)
+- 📝 You can also find me on [https://twitter.com/idkdeji](https://twitter.com/idkdeji)
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, anime, movies, shows and politics lol**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning and Python**
 
 - 📫 How to reach me **adedeji.adewole99@gmail.com**
 
-- ⚡ Fun fact; **I think I'm very fun.**
+- ⚡ Fun fact; **I think I'm a very fun person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
