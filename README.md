@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedejiadewole&label=Profile%20views&color=0e75b6&style=flat" alt="adedejiadewole" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dejjjjjji" target="blank"><img src="https://img.shields.io/twitter/follow/dejjjjjji?logo=twitter&style=for-the-badge" alt="dejjjjjji" /></a> </p>
+<p align="left"> <a href="https://twitter.com/idkdeji" target="blank"><img src="https://img.shields.io/twitter/follow/idkdeji?logo=twitter&style=for-the-badge" alt="idkdeji" /></a> </p>
 
 - 🔭 I’m currently learning more **artificial intelligence techniques to ensure better neural network accuracies**
 
